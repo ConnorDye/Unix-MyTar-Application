@@ -1,0 +1,10 @@
+Connor Dye (chdye)
+
+Hi professor. I started this assignment early and put about 40 + hours in.
+
+I was having some problems with extract and I could not pinpoint the issue. 
+When I tested it manually, my program seemed to extract the file correctly
+and could extract the directories correctly, however I am failing the majority
+of the test cases. I spent a lot of time on the extraction module, and I think
+my logic is there, but I might be missing something small thats making me 
+fail some of those test cases.
