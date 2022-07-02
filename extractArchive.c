@@ -232,6 +232,8 @@ int tar_extract(FILE *tar, const char *path, const mode_t mode,
     return 0;
 }
 
+/*function that builds directory trees. doesn't require file in the archive to have existent 
+parent directory */
 
 int mkdir_recursive(const char *dir, const mode_t mode, int verbose){
     char temp[PATH_MAX];
